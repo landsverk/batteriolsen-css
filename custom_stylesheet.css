@@ -21,6 +21,15 @@
     display: none;
     }
     */
+.title {
+    font-family: "museo-sans" !important;
+    font-weight:400;
+    -webkit-font-smoothing: antialiased;
+}   
+p{
+    font-family: "museo-sans" !important;
+    -webkit-font-smoothing: antialiased;
+} 
     .victron-h1{
         color: #272622;
         font-family: "museo-sans", sans-serif;
